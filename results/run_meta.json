@@ -1,0 +1,15 @@
+{
+ "inputs": {
+  "rounds.csv": "4bbedddd81a51da129831b82b3b6dfcc5de345d823cfaa8aebb6c5cae6596bcc",
+  "participant_condition.csv": "95fa15daebed5f3c331fdb0a102d45140a43a28f595d8694bec2061bce6730a9",
+  "questionnaire.csv": "a763e844415a6787240fef8c1a644a64f6f85ff991bca261bb3f0be1f2332ea3"
+ },
+ "script_sha256": "c04fbc2e6672828eb633ee712886df616d10af24024a7694a7bcb2428940356a",
+ "python": "3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]",
+ "numpy": "2.5.3",
+ "pandas": "3.0.5",
+ "scipy": "1.18.1",
+ "statsmodels": "0.15.0",
+ "B": 10000,
+ "seed": 20261010
+}

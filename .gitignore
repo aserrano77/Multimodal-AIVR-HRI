@@ -1,0 +1,18 @@
+# Unity
+platform/Library/
+platform/Temp/
+platform/Obj/
+platform/Build/
+platform/Builds/
+platform/Logs/
+platform/UserSettings/
+platform/MemoryCaptures/
+platform/ExportedQuestData/
+*.csproj
+*.sln
+*.apk
+# Python
+__pycache__/
+*.pyc
+# Participant-level data must never be committed
+data/

@@ -1,0 +1,17 @@
+reason,rejections,percent_of_rejections
+normalization_not_executable_Unrecognized,180,49.1803
+unsupported_operational_intent_Pick,71,19.3989
+no_valid_deposit_slot,37,10.1093
+no_stopped_task_to_resume,21,5.7377
+normalization_not_executable_Ambiguous,17,4.64481
+voice_stop_latched_pick_and_place_rejected,13,3.55191
+mapping_not_executable_Incomplete,9,2.45902
+mapping_not_executable_NotMapped,5,1.36612
+mapped_intent_without_executable_bridge_task_NearestAmbiguity,4,1.0929
+voice_target_not_selectable_Excluded,4,1.0929
+requested_object_not_available,3,0.819672
+mapping_not_executable_Ambiguous,2,0.546448
+TOTAL rejections,366,100
+TOTAL processed voice inputs,477,
+voice-condition rounds without processed input,22,
+participants without processed input in their valid voice rounds,8,

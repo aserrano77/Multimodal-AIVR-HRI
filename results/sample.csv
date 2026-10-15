@@ -1,0 +1,19 @@
+item,value
+participants included,58
+valid rounds,338
+valid rounds C00,111
+valid rounds C10,113
+valid rounds C11,114
+rounds with five boxes deposited,338
+questionnaire submissions,57
+participants with two valid rounds in every condition (time),50
+participants with two valid rounds in C10 and C11,53
+participants with condition order C00>C10>C11,9
+participants with condition order C00>C11>C10,10
+participants with condition order C10>C00>C11,10
+participants with condition order C10>C11>C00,12
+participants with condition order C11>C00>C10,9
+participants with condition order C11>C10>C00,8
+participants with two valid rounds in C00,54
+participants with two valid rounds in C10,55
+participants with two valid rounds in C11,56

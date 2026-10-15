@@ -1,0 +1,48 @@
+variable,label,condition,sample,n,mean,sd,median,q1,q3,min,max
+trial_duration_s,Execution time per round (s),C00,complete in C00+C10+C11,50,104.239,66.2011,78.9987,59.8711,132.062,31.4582,394.643
+trial_duration_s,Execution time per round (s),C10,complete in C00+C10+C11,50,58.3306,47.4036,46.6183,37.886,55.7327,28.5134,332.509
+trial_duration_s,Execution time per round (s),C11,complete in C00+C10+C11,50,71.4495,24.7218,75.4139,49.1261,83.2149,32.4047,148.344
+error_count,Recorded failure events per round,C00,complete in C00+C10+C11,50,0.17,0.490834,0,0,0,0,2.5
+error_count,Recorded failure events per round,C10,complete in C00+C10+C11,50,2.54,1.71975,2,1.5,3.375,0,8
+error_count,Recorded failure events per round,C11,complete in C00+C10+C11,50,2.28,2.3499,1.75,0.5,3.375,0,12
+error_count_without_no_slot_incidents,"Recorded failure events per round, without no-slot voice rejections",C00,complete in C00+C10+C11,50,0.17,0.490834,0,0,0,0,2.5
+error_count_without_no_slot_incidents,"Recorded failure events per round, without no-slot voice rejections",C10,complete in C00+C10+C11,50,2.54,1.71975,2,1.5,3.375,0,8
+error_count_without_no_slot_incidents,"Recorded failure events per round, without no-slot voice rejections",C11,complete in C00+C10+C11,50,1.66,2.07866,1,0.125,2.375,0,12
+Raw_TLX_0_100,Raw NASA-TLX (0-100),C00,complete in C00+C10+C11,57,35.2193,22.4258,30.8333,20,52.5,0.833333,83.3333
+Raw_TLX_0_100,Raw NASA-TLX (0-100),C10,complete in C00+C10+C11,57,24.8977,19.4684,22.5,5.83333,36.6667,0,73.3333
+Raw_TLX_0_100,Raw NASA-TLX (0-100),C11,complete in C00+C10+C11,57,27.1199,19.0479,23.3333,12.5,38.3333,0.833333,75.8333
+tlx_mental,NASA-TLX mental (0-100),C00,complete in C00+C10+C11,57,36.0526,26.8717,30,10,60,0,95
+tlx_mental,NASA-TLX mental (0-100),C10,complete in C00+C10+C11,57,25.9649,24.4299,20,5,40,0,90
+tlx_mental,NASA-TLX mental (0-100),C11,complete in C00+C10+C11,57,29.1228,26.8282,20,10,50,0,100
+tlx_physical,NASA-TLX physical (0-100),C00,complete in C00+C10+C11,57,36.9298,30.6733,25,10,65,0,100
+tlx_physical,NASA-TLX physical (0-100),C10,complete in C00+C10+C11,57,20.0877,20.9483,10,5,25,0,80
+tlx_physical,NASA-TLX physical (0-100),C11,complete in C00+C10+C11,57,16.3158,19.4001,10,0,25,0,75
+tlx_temporal,NASA-TLX temporal (0-100),C00,complete in C00+C10+C11,57,31.5789,31.4125,20,5,60,0,100
+tlx_temporal,NASA-TLX temporal (0-100),C10,complete in C00+C10+C11,57,19.7368,24.4478,10,0,30,0,95
+tlx_temporal,NASA-TLX temporal (0-100),C11,complete in C00+C10+C11,57,22.7193,24.6958,15,5,30,0,90
+tlx_performance,NASA-TLX performance (0-100),C00,complete in C00+C10+C11,57,49.2982,36.7477,50,10,85,0,100
+tlx_performance,NASA-TLX performance (0-100),C10,complete in C00+C10+C11,57,45.3509,37.7593,50,5,80,0,100
+tlx_performance,NASA-TLX performance (0-100),C11,complete in C00+C10+C11,57,46.1404,35.0639,40,15,75,0,100
+tlx_effort,NASA-TLX effort (0-100),C00,complete in C00+C10+C11,57,37.0175,28.2663,35,10,55,0,95
+tlx_effort,NASA-TLX effort (0-100),C10,complete in C00+C10+C11,57,22.1053,22.2997,20,5,30,0,90
+tlx_effort,NASA-TLX effort (0-100),C11,complete in C00+C10+C11,57,26.3158,23.1557,20,10,40,0,80
+tlx_frustration,NASA-TLX frustration (0-100),C00,complete in C00+C10+C11,57,20.4386,26.225,10,0,30,0,95
+tlx_frustration,NASA-TLX frustration (0-100),C10,complete in C00+C10+C11,57,16.1404,22.6585,5,0,25,0,85
+tlx_frustration,NASA-TLX frustration (0-100),C11,complete in C00+C10+C11,57,22.1053,25.9455,10,0,35,0,100
+SEQ,Single Ease Question (1-7),C00,complete in C00+C10+C11,57,5.35088,1.80763,6,4,7,1,7
+SEQ,Single Ease Question (1-7),C10,complete in C00+C10+C11,57,5.7193,1.89694,6,6,7,1,7
+SEQ,Single Ease Question (1-7),C11,complete in C00+C10+C11,57,5.50877,1.80399,6,5,7,1,7
+robot_route_share,Share of boxes deposited by the robot,C10,complete in C10+C11,53,0.575472,0.197002,0.5,0.4,0.6,0.3,1
+robot_route_share,Share of boxes deposited by the robot,C11,complete in C10+C11,53,0.758491,0.24763,0.8,0.5,1,0.3,1
+robot_sequence_failure_active,Robot sequence failures per round,C10,complete in C10+C11,53,0.396226,0.503435,0.5,0,0.5,0,2.5
+robot_sequence_failure_active,Robot sequence failures per round,C11,complete in C10+C11,53,0.150943,0.303583,0,0,0,0,1.5
+target_selection_rejected_grasp_state,Grasp-state rejections per round,C10,complete in C10+C11,53,1.10377,0.822511,1,0.5,1.5,0,3
+target_selection_rejected_grasp_state,Grasp-state rejections per round,C11,complete in C10+C11,53,0.896226,1.11957,0.5,0,1.5,0,6
+safety_episodes,Safety-stop episodes per round,C10,complete in C10+C11,53,0.235849,0.411421,0,0,0.5,0,2
+safety_episodes,Safety-stop episodes per round,C11,complete in C10+C11,53,0.188679,0.429964,0,0,0,0,2
+safety_duration_unity_s,Safety-stop duration per round (s),C10,complete in C10+C11,53,1.041,2.51247,0,0,1.113,0,15.1808
+safety_duration_unity_s,Safety-stop duration per round (s),C11,complete in C10+C11,53,0.437211,1.0587,0,0,0,0,4.62515
+voice_rate_aggregated,Voice rejection rate (rejections / processed inputs),C11,complete in C11,48,0.759158,0.287485,0.877778,0.5625,1,0,1
+voice_comprehension,Voice: comprehension of available commands (0-10),C11,complete in C11,57,7.14035,2.97873,8,5,10,0,10
+voice_correspondence,Voice: command-response correspondence (0-10),C11,complete in C11,50,6.22,3.228,7,3,9,0,10
+voice_control,Voice: perceived ability to intervene (0-10),C11,complete in C11,57,5.98246,2.83783,6,4,8,0,10

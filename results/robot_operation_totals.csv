@@ -1,0 +1,26 @@
+condition,measure,value
+C10,valid rounds,113
+C10,boxes deposited by the robot,326
+C10,boxes deposited,565
+C10,robot sequence failures,46
+C10,grasp-state rejections,127
+C10,"grasp-state rejections, box held by the robot",0
+C10,"grasp-state rejections, holder undetermined",127
+C10,safety-stop episodes,29
+C10,rounds with a safety stop,25
+C11,valid rounds,114
+C11,boxes deposited by the robot,438
+C11,boxes deposited,570
+C11,robot sequence failures,16
+C11,grasp-state rejections,101
+C11,"grasp-state rejections, box held by the robot",32
+C11,"grasp-state rejections, holder undetermined",69
+C11,safety-stop episodes,21
+C11,rounds with a safety stop,15
+C00,recorded failure events,19
+C00,rounds with a headset recovery failure,9
+C10,recorded failure events,289
+C10,rounds with a headset recovery failure,4
+C11,recorded failure events,249
+C11,rounds with a headset recovery failure,5
+C11,no-slot increments of the failure-event counter,74

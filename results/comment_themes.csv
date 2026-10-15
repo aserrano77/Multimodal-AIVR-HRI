@@ -1,0 +1,10 @@
+theme,definition,participants
+voice_not_understood,Voice commands often not understood or not acted on,10
+unsure_what_to_say,"Unsure what to say or when, or asked for practice or a reminder of the commands",6
+preferred_autonomy,"Preferred to let the robot work on its own and adapt to it, or saw no need for voice",6
+coordination_cost,"Cost of coordinating with the robot: planning for both agents, competing for boxes, a command making the robot stop or change its path",4
+robot_speed,Asked for a faster or more responsive robot,2
+simulator_sickness,Dizziness or nausea,4
+controls_and_learning,"Controls, locomotion, grasping or the first test acting as a learning phase",9
+general,General positive remarks or suggestions for new features,2
+TOTAL,Participants who left a comment (of 57 questionnaire respondents); a comment can contain several themes,34

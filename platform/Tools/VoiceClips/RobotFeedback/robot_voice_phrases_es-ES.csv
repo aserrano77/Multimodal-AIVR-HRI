@@ -1,0 +1,57 @@
+clip_id,category,critical,resource_path,text
+debug_speak_test,diagnostic,true,RobotVoice/es-ES/debug_speak_test,Prueba de voz del robot.
+debug_spanish_speak_test,diagnostic,true,RobotVoice/es-ES/debug_spanish_speak_test,Prueba de voz del robot en español.
+order_accepted_requested_box,accepted,false,RobotVoice/es-ES/order_accepted_requested_box,Orden aceptada. Voy a por la caja solicitada.
+rejected_ambiguous_target,rejected,true,RobotVoice/es-ES/rejected_ambiguous_target,Orden rechazada: hay varias cajas compatibles. Indica el identificador de la caja.
+rejected_unrecognized,rejected,true,RobotVoice/es-ES/rejected_unrecognized,Orden rechazada: no he entendido la caja o el destino solicitados.
+rejected_not_executable,rejected,true,RobotVoice/es-ES/rejected_not_executable,Orden rechazada: no puedo ejecutar la tarea solicitada con la información disponible.
+rejected_target_not_found,rejected,true,RobotVoice/es-ES/rejected_target_not_found,Orden rechazada. No encuentro esa caja.
+rejected_robot_busy,rejected,true,RobotVoice/es-ES/rejected_robot_busy,Orden rechazada. Estoy ocupado.
+rejected_stopped_by_voice,rejected,true,RobotVoice/es-ES/rejected_stopped_by_voice,Estoy detenido. Di 'continúa' o 'retoma la tarea' para seguir.
+clarification_nearest_reference,clarification,false,RobotVoice/es-ES/clarification_nearest_reference,Necesito una aclaración: dime si te refieres a la caja más cercana a ti o al robot.
+pending_cancelled,control,true,RobotVoice/es-ES/pending_cancelled,Orden cancelada: detengo la orden pendiente.
+control_stop,control,true,RobotVoice/es-ES/control_stop,Orden recibida: detengo la tarea actual.
+control_already_stopped,control,true,RobotVoice/es-ES/control_already_stopped,Ya estoy parado.
+control_resume,control,true,RobotVoice/es-ES/control_resume,Orden recibida: reanudo la tarea detenida.
+control_resume_none,control,true,RobotVoice/es-ES/control_resume_none,No hay ninguna tarea detenida que pueda reanudar.
+control_resume_unsafe,control,true,RobotVoice/es-ES/control_resume_unsafe,No puedo reanudar la tarea detenida porque el estado ya no es seguro.
+control_continue,control,true,RobotVoice/es-ES/control_continue,Orden recibida: continúo con la tarea.
+control_default,control,true,RobotVoice/es-ES/control_default,Orden recibida: inicio la tarea solicitada.
+pending_after_current_box,pending,true,RobotVoice/es-ES/pending_after_current_box,Orden recibida: la ejecutaré cuando termine de depositar la caja actual.
+status_requested_box_self,status,false,RobotVoice/es-ES/status_requested_box_self,Tarea en curso: estoy llevando la caja solicitada a su zona de depósito.
+order_accepted_a1,accepted,false,RobotVoice/es-ES/order_accepted_a1,Orden aceptada. Voy a por la caja A1.
+order_accepted_a2,accepted,false,RobotVoice/es-ES/order_accepted_a2,Orden aceptada. Voy a por la caja A2.
+order_accepted_a3,accepted,false,RobotVoice/es-ES/order_accepted_a3,Orden aceptada. Voy a por la caja A3.
+order_accepted_b1,accepted,false,RobotVoice/es-ES/order_accepted_b1,Orden aceptada. Voy a por la caja B1.
+order_accepted_b2,accepted,false,RobotVoice/es-ES/order_accepted_b2,Orden aceptada. Voy a por la caja B2.
+order_accepted_c1,accepted,false,RobotVoice/es-ES/order_accepted_c1,Orden aceptada. Voy a por la caja C1.
+target_changed_a1_self,accepted,false,RobotVoice/es-ES/target_changed_a1_self,Orden aceptada: cambio de objetivo y voy a llevar la caja A1 a su zona de depósito.
+target_changed_a2_self,accepted,false,RobotVoice/es-ES/target_changed_a2_self,Orden aceptada: cambio de objetivo y voy a llevar la caja A2 a su zona de depósito.
+target_changed_a3_self,accepted,false,RobotVoice/es-ES/target_changed_a3_self,Orden aceptada: cambio de objetivo y voy a llevar la caja A3 a su zona de depósito.
+target_changed_b1_self,accepted,false,RobotVoice/es-ES/target_changed_b1_self,Orden aceptada: cambio de objetivo y voy a llevar la caja B1 a su zona de depósito.
+target_changed_b2_self,accepted,false,RobotVoice/es-ES/target_changed_b2_self,Orden aceptada: cambio de objetivo y voy a llevar la caja B2 a su zona de depósito.
+target_changed_c1_self,accepted,false,RobotVoice/es-ES/target_changed_c1_self,Orden aceptada: cambio de objetivo y voy a llevar la caja C1 a su zona de depósito.
+pending_after_a1,pending,true,RobotVoice/es-ES/pending_after_a1,Orden recibida: la ejecutaré cuando termine de depositar la caja A1.
+pending_after_a2,pending,true,RobotVoice/es-ES/pending_after_a2,Orden recibida: la ejecutaré cuando termine de depositar la caja A2.
+pending_after_a3,pending,true,RobotVoice/es-ES/pending_after_a3,Orden recibida: la ejecutaré cuando termine de depositar la caja A3.
+pending_after_b1,pending,true,RobotVoice/es-ES/pending_after_b1,Orden recibida: la ejecutaré cuando termine de depositar la caja B1.
+pending_after_b2,pending,true,RobotVoice/es-ES/pending_after_b2,Orden recibida: la ejecutaré cuando termine de depositar la caja B2.
+pending_after_c1,pending,true,RobotVoice/es-ES/pending_after_c1,Orden recibida: la ejecutaré cuando termine de depositar la caja C1.
+pending_replaced_a1_self,pending,true,RobotVoice/es-ES/pending_replaced_a1_self,Orden pendiente actualizada: después llevaré la caja A1 a su zona de depósito.
+pending_replaced_a2_self,pending,true,RobotVoice/es-ES/pending_replaced_a2_self,Orden pendiente actualizada: después llevaré la caja A2 a su zona de depósito.
+pending_replaced_a3_self,pending,true,RobotVoice/es-ES/pending_replaced_a3_self,Orden pendiente actualizada: después llevaré la caja A3 a su zona de depósito.
+pending_replaced_b1_self,pending,true,RobotVoice/es-ES/pending_replaced_b1_self,Orden pendiente actualizada: después llevaré la caja B1 a su zona de depósito.
+pending_replaced_b2_self,pending,true,RobotVoice/es-ES/pending_replaced_b2_self,Orden pendiente actualizada: después llevaré la caja B2 a su zona de depósito.
+pending_replaced_c1_self,pending,true,RobotVoice/es-ES/pending_replaced_c1_self,Orden pendiente actualizada: después llevaré la caja C1 a su zona de depósito.
+rejected_unavailable_a1,rejected,true,RobotVoice/es-ES/rejected_unavailable_a1,Orden rechazada: la caja A1 ya no está disponible.
+rejected_unavailable_a2,rejected,true,RobotVoice/es-ES/rejected_unavailable_a2,Orden rechazada: la caja A2 ya no está disponible.
+rejected_unavailable_a3,rejected,true,RobotVoice/es-ES/rejected_unavailable_a3,Orden rechazada: la caja A3 ya no está disponible.
+rejected_unavailable_b1,rejected,true,RobotVoice/es-ES/rejected_unavailable_b1,Orden rechazada: la caja B1 ya no está disponible.
+rejected_unavailable_b2,rejected,true,RobotVoice/es-ES/rejected_unavailable_b2,Orden rechazada: la caja B2 ya no está disponible.
+rejected_unavailable_c1,rejected,true,RobotVoice/es-ES/rejected_unavailable_c1,Orden rechazada: la caja C1 ya no está disponible.
+status_a1_self,status,false,RobotVoice/es-ES/status_a1_self,Tarea en curso: estoy llevando la caja A1 a su zona de depósito.
+status_a2_self,status,false,RobotVoice/es-ES/status_a2_self,Tarea en curso: estoy llevando la caja A2 a su zona de depósito.
+status_a3_self,status,false,RobotVoice/es-ES/status_a3_self,Tarea en curso: estoy llevando la caja A3 a su zona de depósito.
+status_b1_self,status,false,RobotVoice/es-ES/status_b1_self,Tarea en curso: estoy llevando la caja B1 a su zona de depósito.
+status_b2_self,status,false,RobotVoice/es-ES/status_b2_self,Tarea en curso: estoy llevando la caja B2 a su zona de depósito.
+status_c1_self,status,false,RobotVoice/es-ES/status_c1_self,Tarea en curso: estoy llevando la caja C1 a su zona de depósito.

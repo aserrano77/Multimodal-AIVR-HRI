@@ -1,0 +1,23 @@
+variable,category,n,percent,mean,sd,median,q1,q3,min,max
+age,,57,,35.2982,13.343,33,24,47,18,59
+gender,Woman,16,28.0702,,,,,,,
+gender,Man,41,71.9298,,,,,,,
+education,Compulsory secondary education or equivalent,1,1.75439,,,,,,,
+education,Upper secondary education (Bachillerato),14,24.5614,,,,,,,
+education,Higher vocational training,4,7.01754,,,,,,,
+education,Bachelor's degree or equivalent,5,8.77193,,,,,,,
+education,"Master's degree, postgraduate or equivalent",11,19.2982,,,,,,,
+education,Doctorate,22,38.5965,,,,,,,
+area,"Computing, telecommunications, architecture or engineering",27,47.3684,,,,,,,
+area,"Natural sciences, mathematics or health sciences",12,21.0526,,,,,,,
+area,"Social sciences, law, economics, education or humanities",10,17.5439,,,,,,,
+area,"Arts, design or communication",1,1.75439,,,,,,,
+area,"Industry, technical trades, construction, transport or logistics",2,3.50877,,,,,,,
+area,"Administration, commerce, hospitality or other services",2,3.50877,,,,,,,
+area,Other area,3,5.26316,,,,,,,
+vr_sessions_12m,summary,57,,7.17544,48.2768,0,0,1,0,365
+vr_sessions_12m,zero,37,64.9123,,,,,,,
+robot_interactions_12m,summary,57,,25.3509,137.556,0,0,0,0,999
+robot_interactions_12m,zero,46,80.7018,,,,,,,
+voice_assistant_days_30d,summary,57,,5.14035,7.79981,1,0,10,0,30
+voice_assistant_days_30d,zero,27,47.3684,,,,,,,

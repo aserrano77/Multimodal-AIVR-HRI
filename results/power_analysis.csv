@@ -1,0 +1,6 @@
+analysis,quantity,value,power
+"RM omnibus, f = 0.25, power .90",minimum N,36.0000,0.9064
+"RM omnibus, N = 50, power .90",smallest detectable f,0.2086,0.9000
+"H3 TOST, N = 57, bounds dz = +-0.5",power,0.9604,
+"H3 TOST, N = 57, bounds dz = +-0.4",power,0.8231,
+"H3 TOST, N = 57, bounds dz = +-0.3",power,0.4623,

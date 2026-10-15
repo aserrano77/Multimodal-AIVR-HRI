@@ -1,0 +1,6 @@
+preference,n,percent,wilson_ci95_low,wilson_ci95_high
+"Manual, without the robot",10,17.5439,9.81885,29.3674
+Autonomous robot without voice commands,22,38.5965,27.0627,51.5703
+Autonomous robot with voice commands,25,43.8596,31.7727,56.722
+No clear preference,0,0,0,6.31388
+"chi-square against a uniform split of the three options: chi2(2) = 6.6316, p = 0.0363",57,,,
